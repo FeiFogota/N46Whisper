@@ -20,7 +20,7 @@ The output file will be in .ass format with built-in style of selected sub group
 * Other minor fixes.
 
 ## How to use
-* [Click here](https://colab.research.google.com/github/Ayanaminn/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
+* [Click here](https://colab.research.google.com/github/FeiFogota/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
 * Upload file and follow the instruction to run the notebook.
 * The ass file will be automatically downloaded once done.
 
