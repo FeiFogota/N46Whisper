@@ -1,4 +1,4 @@
-# N46Whisper
+# fork from Ayanaminn
 
 Language : English | [简体中文](./README_CN.md) 
 
